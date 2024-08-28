@@ -1,0 +1,12 @@
+# Ignore environment variable files
+test.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore database files
+*.db
+
+# Ignore log files
+*.log
